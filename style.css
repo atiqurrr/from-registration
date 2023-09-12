@@ -1,0 +1,16 @@
+:root{
+    --color-white:#fff;
+    --color-light: #f3f4f8;
+    --color-dark: #686e7a;
+    --color-black: #111727;
+    --color-primary: #633fbd;
+    --color-body-bg: #d2d0dd;
+
+    --transition:all 250ms ease ;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
